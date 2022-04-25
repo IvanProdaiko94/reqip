@@ -1,4 +1,4 @@
-module github.com/mo7zayed/reqip
+module github.com/IvanProdaiko94/reqip
 
 go 1.14
 
